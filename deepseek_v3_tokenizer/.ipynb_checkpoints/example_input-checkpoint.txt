@@ -1,0 +1,20 @@
+Observation 1: Kelly really wanted the new Chanel bag.
+Observation 2: Kelly was thrilled.
+Possible Explanations:
+1: Kelly's mom brought the wrong brand bag for her for Christmas.
+2: Kelly's mom bought the bag for her for Christmas.
+Answer: 2
+
+Observation 1: Linda has never voted in any election.
+Observation 2: She is very happy that she voted this year.
+Possible Explanations:
+1: Linda learned of the importance of voting for fringe candidates.
+2: Linda learned of the importance of voting.
+Answer: 2
+
+Observation 1: Jason was going to the pool.
+Observation 2: Finally, he went swimming.
+Possible Explanations:
+1: Jason cancelled his ice cream trip to go grocery shopping, and would go to the ice cream later.
+2: Jason cancelled his pool trip to go grocery shopping, and would go to the pool later.
+Answer:

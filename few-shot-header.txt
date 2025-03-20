@@ -1,0 +1,20 @@
+Observation 1: It was midterms for Joe at his college.
+Observation 2: He was happy to find out he got a B, since the test was hard.
+Possible Explanations:
+1: Joe had a hard time understanding his calculus notes.
+2: Joe had an easy time understanding his calculus notes.
+Answer: 1
+
+Observation 1: Louie wanted to open a laser tag arena since he was in high school.
+Observation 2: They finished last summer and now Louie has his dream business!
+Possible Explanations:
+1: He worked hard in school and was able to start building someone else's laser tag arena.
+2: He worked hard in school and was able to start building his own laser tag arena.
+Answer: 2
+
+Observation 1: Ellie was at dancing as hard as she could at a new club.
+Observation 2: Ellie continued to dance.
+Possible Explanations:
+1: Ellie was a good dancer.
+2: People cheered on Ellie's dancing.
+Answer: 
